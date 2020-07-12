@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The implicit receiver (self)"
-date:       2020-07-12 01:05:55 +0000
+date:       2020-07-11 21:05:56 -0400
 permalink:  the_implicit_receiver_self
 ---
 
