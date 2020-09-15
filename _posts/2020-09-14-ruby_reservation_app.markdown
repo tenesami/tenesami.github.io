@@ -6,7 +6,9 @@ permalink:  ruby_reservation_app
 ---
 
 
-This app is designed for users to make restaurant reservations and to add their favorite restaurant in their home page. Once users create an account on this app they have the authority to make restaurant reservations and to add their favorite restaurants on their home page. 
+This app is designed to build bridge between restaurant owners and restaurant users. To use this web apps user need to create accout or login using their existing gmail account.
+
+The app let users to make restaurant reservations and to add their favorite restaurant in their home page. Once users create an account on this app they have the authority to make restaurant reservations and to add their favorite restaurants on their home page. 
 
 If a user change their mind they can edit, update and even delete their reservation. User also has the authority to see and make a reservation based on other users favorite restaurants. 
 
