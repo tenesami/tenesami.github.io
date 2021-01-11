@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Study Proverb "
-date:       2021-01-11 14:20:20 +0000
+date:       2021-01-11 09:20:21 -0500
 permalink:  study_proverb
 ---
 
