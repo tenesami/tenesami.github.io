@@ -14,4 +14,4 @@ But after a few days we forgot about what we read if we didn’t take any sort o
 
 The app helps users to organize the quotes based on author and topic. The user of this app can also read the available authors proverbs and quotes. If the user like to take notes of their favorite author quotes, they are able to do so. 
 
-The front end of the app is built with vanilla JavaScript and the back end of the app is built with rails. User of this app can add and delete new Author and read and write proverbs of the author quotes. 
+The app uses a PostgreSQL database. The front end of the app is built with vanilla JavaScript and the back end of the app is built with rails. User of this app can add and delete new Author and read and write proverbs of the author quotes. 
